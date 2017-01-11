@@ -1,8 +1,4 @@
-# mysublimeconfg
-
-my sublime text config file.
-
-## This is the plugin I use for my sublime text 3
+# This is the plugin I use for my sublime text 3
 
 - phpfmt
 
