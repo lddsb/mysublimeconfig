@@ -1,0 +1,4 @@
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/lib/go/pkg/linux_amd64:/home/luodi/Go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/lib/go", GOPATH:"/home/luodi/Go", InstallSuffix:""}
+Gocode pkg: "."
+Gocode env: gocode.margoEnv{LibPath:"/usr/lib/go/pkg/linux_amd64:/home/luodi/Go/pkg/linux_amd64", GOOS:"linux", GOARCH:"amd64", Compiler:"gc", GOROOT:"/usr/lib/go", GOPATH:"/home/luodi/Go", InstallSuffix:""}
