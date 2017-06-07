@@ -10,7 +10,7 @@
 		"GoSublime r16.07.09-1 9o: type `help` for help and command documentation\n\n[ `go run hello.go` | done: 193.356092ms ]\n  Hello World！你好，世界！\n[ `go build hello.go` | done: 234.763976ms ]\n[ ~/Go/src/ ] # \n[ `go build exercise-loops-and-functions.go` | done: 481.845891ms ]\n[ `go run exercise-loops-and-functions.go` | done: 159.745609ms ]\n  1.4142135623730951\n[ `go fmt exercise-loops-and-functions.go` | done: 133.668512ms ]\n  exercise-loops-and-functions.go:9:28: expected '{', found newline\n  exercise-loops-and-functions.go:12:1: expected expression\n  exercise-loops-and-functions.go:12:6: expected '(', found 'IDENT' main\n  exercise-loops-and-functions.go:13:13: missing ',' in parameter list\n  exercise-loops-and-functions.go:13:26: expected statement, found ')'\n  exercise-loops-and-functions.go:14:3: expected '}', found 'EOF'\n  exit status 2\n  \n  exit status 1\n[ `go fmt exercise-loops-and-functions.go` | done: 104.956772ms ]\n[ `go fmt exercise-loops-and-functions.go` | done: 79.315644ms ]\n[ `go run exercise-loops-and-functions.go` | done: 161.786736ms ]\n  1.4142135623730951\n[ `go run exercise-loops-and-functions.go` | done: 158.398561ms ]\n  1.5\n  1.5\n  1.5\n  1.5\n  1.5\n  1.5\n  1.5\n  1.5\n  1.5\n  1.5\n[ ~/Go/src/ ] #",
 		"GoSublime r16.07.09-1 9o: type `help` for help and command documentation"
 	],
-	"ann": "a16.07.09-1",
-	"install_version": "r16.07.09-1",
-	"version": "r16.07.09-1"
+	"ann": "a17.03.05-1",
+	"install_version": "r17.03.05-1",
+	"version": "r17.03.05-1"
 }

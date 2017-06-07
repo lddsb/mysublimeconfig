@@ -5,18 +5,20 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Align Arguments",
 		"Alignment",
 		"ConvertToUTF8",
 		"Emmet",
 		"GoSublime",
+		"HTML-CSS-JS Prettify",
 		"Package Control",
 		"PhpDoc",
 		"phpfmt",
 		"PHPIntel",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-erlc",
-		"SublimeLinter-php",
-		"Theme - Spacegray"
+		"SublimeLinter-php"
 	]
 }
